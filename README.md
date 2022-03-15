@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <b>Hi there</b> 👋
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
